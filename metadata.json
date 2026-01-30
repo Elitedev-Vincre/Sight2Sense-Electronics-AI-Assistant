@@ -1,0 +1,7 @@
+{
+  "name": "Sight2Sense AI Assistant",
+  "description": "An AI copilot for electronics engineers and hobbyists to analyze circuits, PCBs, and troubleshoot electronic systems using multimodal reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
